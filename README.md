@@ -1,1 +1,1 @@
-This is my first attempt for git and i will learn it completely.
+\this is 2nd attempt
